@@ -1,3 +1,5 @@
+![Screenshot 2023-08-15 074152](https://github.com/yug20/password-generator/assets/110123287/10b63c95-137b-46a9-9b4a-69ee60a3694f)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
